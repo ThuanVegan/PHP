@@ -1,0 +1,25 @@
+.col-10{
+    padding-bottom: 3px;
+}
+.row .col-6{
+    padding-bottom: 3px;
+}
+.col-12 .table{
+    background-color:rgb(235, 235, 235) ;
+    border-color: aliceblue;
+}
+.table tr td{
+    table-layout: fixed;
+    width: 5rem;
+    word-wrap: break-word;
+}
+.table tr td a{
+    text-decoration: none; 
+    color: black; 
+    font-weight: bold;
+}
+
+.table th, .table td{
+    padding:10px !important;
+    line-height: 1.5rem !important;
+}

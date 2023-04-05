@@ -1,0 +1,14 @@
+.single_more_works img{
+    width: 220px !important;
+    height: 180px  !important;
+}
+.single_more_works a h2{
+    width: 220px !important;
+    height: 80px  !important;
+}
+.single_sidebar .popular_post ul li a span{
+    font-size: 14px !important;
+}
+.single_sidebar .cat-item{
+    height: 20px !important;
+}
